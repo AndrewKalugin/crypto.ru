@@ -1,0 +1,17 @@
+{
+  "name": "Test work for crypto",
+  "description": "Auth and withdrawal",
+  "authors": [
+    {
+      "name": "Andrew",
+      "email": "andrewka.kalugin@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/",
+      "Core\\": "Core/",
+      "components\\": "components/"
+    }
+  }
+}
